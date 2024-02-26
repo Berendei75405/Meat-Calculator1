@@ -68,7 +68,7 @@ final class MainViewController: UIViewController {
     private let meatLabel: UILabel = {
         let lab = UILabel()
         lab.translatesAutoresizingMaskIntoConstraints = false
-        lab.text = "Какое мясо жарим?"
+        lab.text = "Что жарим?"
         lab.textColor = UIColor(named: "otherColor")
         lab.font = .boldSystemFont(ofSize: 18)
         
