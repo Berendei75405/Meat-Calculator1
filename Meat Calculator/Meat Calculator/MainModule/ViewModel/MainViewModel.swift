@@ -67,7 +67,7 @@ final class MainViewModel: MainViewModelProtocol {
             meatString = "курицы"
         case .vegetables:
             meat = 0.4
-            meatString = "растительного мяса"
+            meatString = "овощей"
         case .turkey:
             meat = 0.4
             meatString = "индейки"
