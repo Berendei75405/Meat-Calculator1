@@ -93,5 +93,3 @@ final class MainViewModel: MainViewModelProtocol {
     }
     
 }
-
-//some code
